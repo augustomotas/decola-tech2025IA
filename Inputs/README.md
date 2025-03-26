@@ -10,19 +10,26 @@ Este projeto foi desenvolvido como parte de um desafio proposto pela Digital Inn
 │   │-- 📜 README.md  # Este documento explicativo
 ```
 
-## 🛠 Tecnologias Utilizadas
-- Python
-- Ferramentas de IA para análise de texto
-- GitHub
 
 ## 🔍 Processo e Insights
 1. **Criação do Repositório**: O repositório foi criado no GitHub para armazenar os arquivos do projeto.
-2. **Geração de Sentenças**: Criamos um arquivo `sentencas.txt` contendo algumas frases para análise.
+2. **Geração de Sentenças**: Gerando algumas frases com o ChatGPT para análise.
 3. **Análise com Analise de textos do Azure**: Utilizamos ferramentas de IA para interpretar as sentenças e gerar insights sobre sentimentos, estrutura e possíveis melhorias no texto.
 4. **Documentação**: Capturamos prints do processo e anotamos aprendizados e possibilidades futuras.
 
 ## 📸 Prints do Processo
-*Insira aqui imagens do seu processo de análise e resultados obtidos.*
+1. Descontentamento com Hotel Grand Plaza
+![image](https://github.com/user-attachments/assets/8202bc0e-147d-42e2-8b34-ad4b03a6923c)
+
+2. Contentamento com o Resort Ocean Breeze
+   ![image](https://github.com/user-attachments/assets/147b534d-1567-402d-8f2c-1cb151a5b817)
+
+3. Neutro sobre o Hotel
+![image](https://github.com/user-attachments/assets/f6e9b4c6-e2af-4670-85ff-df626b5e8b5d)
+
+4. Aspectos positivos e negativos sobre Hotel Metropolitano
+   ![image](https://github.com/user-attachments/assets/e4ef926e-d380-4f8c-9712-5ed018451c4e)
+
 
 ## 💡 Aprendizados e Possibilidades
 Durante este projeto, aprendi sobre:
